@@ -1,6 +1,6 @@
 Diseño de Producto Digital UX/UI:
 
-UX:
+**UX**:
 * Research y estrategia:
 * Realizar una breve investigación, para terminar de definir el alcance del producto digital, así como su target principal.
 * Identifique el problema/necesidad del tema.
@@ -13,7 +13,7 @@ UX:
 * Conceptualización:
 * Wireflow (wireframes + flowchart) y validarlo con el equipo.
 
-UI:
+**UI**:
 * Diseñar la interfaz, incluyendo el estilo visual e imagen de marca argumentados, de forma entendible para el equipo.
 * Creación del sistema de diseño.
 * Colores.

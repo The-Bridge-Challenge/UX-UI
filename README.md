@@ -1,23 +1,30 @@
-Diseño de Producto Digital UX/UI:
+# Guía de Diseño de Producto Digital UX/UI
 
-**UX**:
-* Research y estrategia:
-* Realizar una breve investigación, para terminar de definir el alcance del producto digital, así como su target principal.
-* Identifique el problema/necesidad del tema.
-* Realizar un benchmark.
-* Identificar las oportunidades viables, acotándolas con el cliente, mediante el canvas de negocio e identificando el modelo de negocio.
-* Redactar la propuesta de valor.
-* Identificar target objetivo, crear el user persona, journeys u otras herramientas que nos ayuden a entender a nuestros usuarios.
-* Ideación: Usar técnicas de generación de ideas , acotar y sintetizar las mismas.
-* Diseñar y terminar de definir las funcionalidades del producto digital mediante técnicas de ideación y conceptualización.
-* Conceptualización:
-* Wireflow (wireframes + flowchart) y validarlo con el equipo.
+## UX: Research y Estrategia
+- Realizar una investigación para definir el alcance del producto digital y su target principal.
+- Identificar el problema o necesidad central del tema.
+- Ejecutar un benchmark y identificar oportunidades viables, acotándolas con el cliente.
+- Utilizar el canvas de negocio para identificar el modelo de negocio y redactar la propuesta de valor.
+- Crear el user persona y mapear los customer journeys, así como otras herramientas para entender a los usuarios.
+- Idear y sintetizar las funcionalidades del producto digital mediante técnicas de generación de ideas.
 
-**UI**:
-* Diseñar la interfaz, incluyendo el estilo visual e imagen de marca argumentados, de forma entendible para el equipo.
-* Creación del sistema de diseño.
-* Colores.
-* Tipografías.
-* Creación de distintos componentes con variantes utilizando técnicas como autolayout y constrains. 
-* Elaboración de un prototipo navegable con algunos efectos de animación (overlay y  transiciones de smart animate).
-* Presentar y argumentar sus pantallas.
+## Conceptualización de UX
+- Diseñar el wireflow (combinación de wireframes y flowchart) y validarlo con el equipo.
+
+## UI: Diseño de Interfaz
+- Diseñar la interfaz, incluyendo el estilo visual y la imagen de marca, de forma comprensible para el equipo.
+- Crear un sistema de diseño que abarque:
+  - Paletas de colores.
+  - Tipografías.
+  - Componentes con variantes, utilizando técnicas como autolayout y constrains.
+- Elaborar un prototipo navegable con efectos de animación como overlay y transiciones de smart animate.
+- Presentar y argumentar las pantallas diseñadas.
+
+## Desarrollo y Directrices Específicas
+- Investigar y definir la experiencia de usuario, mapeando el viaje del cliente y definiendo personas.
+- Diseñar wireframes, mockups y prototipos funcionales para la aplicación.
+- Realizar pruebas de usabilidad para validar y mejorar la interfaz de usuario.
+
+## Documentación
+- Mantener documentación detallada de todo el proceso de diseño, desde la investigación hasta la conceptualización y diseño de la interfaz.
+- Documentar claramente las decisiones de diseño y las justificaciones detrás de la elección de estilos visuales, tipografías y componentes de la interfaz.

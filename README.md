@@ -1,7 +1,7 @@
 # Guía de Diseño de Producto Digital UX/UI
 
 ## UX: Research y Estrategia
-- Realizar una investigación para definir el alcance del producto digital y su target principal.
+- Realizar investigación para definir el alcance del producto digital y su target principal.
 - Identificar el problema o necesidad central del tema.
 - Ejecutar un benchmark y identificar oportunidades viables, acotándolas con el cliente.
 - Utilizar el canvas de negocio para identificar el modelo de negocio y redactar la propuesta de valor.

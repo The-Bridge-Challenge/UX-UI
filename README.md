@@ -3,7 +3,7 @@
 ---
 
 ## Descubrimiento
-***Problemática***
+**Problemática**
 - ¿Cómo podríamos virtualizar y automatizar todo lo posible para ahorrar tiempo de generación de la propuesta para el cliente?
 - ¿Cómo podríamos solventar las limitaciones en el uso del workbook cuando se usa de manera externa?
 - ¿Cómo podríamos simplificar el uso del workbook y mejorar el entendimiento de la propuesta destinada al cliente?

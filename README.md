@@ -36,7 +36,7 @@ Características de la oferta con sus puntos buenos y malos planteados de manera
 ![user](img/user.png)
 
 **User Journey**
-?????imagen
+![journeymap](img/journeymap.png)
 
 ---
 

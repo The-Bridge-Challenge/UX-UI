@@ -53,7 +53,6 @@ El modelo de nogocio actual es un B2B (Bussines to Bussines) ya que sus ganancia
 
 ## Ideación ##
 **Brainstorming**
-
 ![ideacion](img/ideacion.png)
 
 ---

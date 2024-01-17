@@ -51,9 +51,11 @@ Ofrecer  un método de trabajo óptimo y eficiente  para la labor de asesoría e
 El modelo de nogocio actual es un B2B (Bussines to Bussines) ya que sus ganancias se deben a los servicios que realizan para otras empresas del ámbito eléctrico y similares.
 ---
 
-## Ideación
+## Ideación ##
 **Brainstorming**
-![ideación](img/ideacion.png)
+
+![ideacion](img/ideacion.png)
+
 ---
 
 ## Conceptualización

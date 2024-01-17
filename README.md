@@ -68,5 +68,5 @@ El modelo de nogocio actual es un B2B (Bussines to Bussines) ya que sus ganancia
 ---
 
 ## Interacción
-[Prototipo funcional en Figma]([htt](https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design)https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design)
+[Prototipo funcional en Figma](https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design)https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design)
 ---

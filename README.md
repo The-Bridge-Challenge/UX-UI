@@ -34,7 +34,7 @@ Características de la oferta con sus puntos buenos y malos planteados de manera
 - Automatizar la entrada de datos en la tabla de personalización de precios para su actualización al sufrir un cambio.
 
 **User persona**
-
+![userpersona](img/userpersona.png)
 
 **User Journey**
 ![journeymap](img/journeymap.png)
@@ -43,8 +43,7 @@ Características de la oferta con sus puntos buenos y malos planteados de manera
 
 ## Estrategia
 **Value Proposition Canvas**
-??????imagen
-
+![estrategia](img/estrategia.png)
 **Propuesta de valor**
 Ofrecer  un método de trabajo óptimo y eficiente  para la labor de asesoría energética fomentando un procedimiento actualizado y moderno reduciendo así las complicaciones actuales de los trabajadores.
 
@@ -59,12 +58,14 @@ Ofrecer  un método de trabajo óptimo y eficiente  para la labor de asesoría e
 ---
 
 ## Conceptualización
-??????imagen
+![conceptualización](img/conceptualización.png)
 
 ---
 
 ## Diseño
+**Imágen de marca**
 
+![logos](img/logos.png)
 ---
 
 ## Interacción

@@ -65,8 +65,13 @@ El modelo de nogocio actual es un B2B (Bussines to Bussines) ya que sus ganancia
 
 ## Diseño
 **Imágen de marca**
-
+Logotipo:
 ![logos](img/logos.png)
+Colores:
+![colores](img/colores.png)
+Tipografía:
+![tipografias](img/tipografias.png)
+
 
 ---
 

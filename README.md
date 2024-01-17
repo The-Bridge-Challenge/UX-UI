@@ -33,7 +33,8 @@ Características de la oferta con sus puntos buenos y malos planteados de manera
 - Simplificar el cálculo del consumo anual automatizando el proceso de introducción de datos para ahorrar tiempo y simplificar la tarea.
 - Automatizar la entrada de datos en la tabla de personalización de precios para su actualización al sufrir un cambio.
 
-![user](img/user.png)
+**User persona**
+
 
 **User Journey**
 ![journeymap](img/journeymap.png)

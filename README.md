@@ -48,11 +48,11 @@ Características de la oferta con sus puntos buenos y malos planteados de manera
 Ofrecer  un método de trabajo óptimo y eficiente  para la labor de asesoría energética fomentando un procedimiento actualizado y moderno reduciendo así las complicaciones actuales de los trabajadores.
 
 **Modelo de negocio**
-??????
-
+El modelo de nogocio actual es un B2B (Bussines to Bussines) ya que sus ganancias se deben a los servicios que realizan para otras empresas del ámbito eléctrico y similares.
 ---
 
 ## Ideación
+**Brainstorming**
 ![ideación](img/ideacion.png)
 ---
 
@@ -64,10 +64,9 @@ Ofrecer  un método de trabajo óptimo y eficiente  para la labor de asesoría e
 
 ## Diseño
 **Imágen de marca**
-
 ![logos](img/logos.png)
 ---
 
 ## Interacción
-
+[Prototipo funcional en Figma]([htt](https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design)https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design)
 ---

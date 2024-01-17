@@ -57,6 +57,7 @@ Ofrecer  un método de trabajo óptimo y eficiente  para la labor de asesoría e
 ---
 
 ## Conceptualización
+**Flujos de usuario**
 ![conceptualización](img/conceptualizacion.png)
 
 ---

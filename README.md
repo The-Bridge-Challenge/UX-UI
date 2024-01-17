@@ -77,8 +77,14 @@ Tipografía:
 
 ![tipografias](img/tipografias.png)
 
+[Sistema de diseño en Figma](https://www.figma.com/file/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=4%3A183&mode=design&t=49I7qr5lafqLVkFq-1)
+
 
 ---
 
 ## Interacción
 [Prototipo funcional en Figma](https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design)
+
+
+## Proceso de trabajo
+[Proceso en Figma](https://www.figma.com/file/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=0%3A1&mode=design&t=49I7qr5lafqLVkFq-1)

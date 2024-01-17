@@ -53,12 +53,11 @@ Ofrecer  un método de trabajo óptimo y eficiente  para la labor de asesoría e
 ---
 
 ## Ideación
-?????imagen
-
+![ideación](img/ideacion.png)
 ---
 
 ## Conceptualización
-![conceptualización](img/conceptualización.png)
+![conceptualización](img/conceptualizacion.png)
 
 ---
 
